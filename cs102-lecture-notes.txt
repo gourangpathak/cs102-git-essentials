@@ -3,3 +3,17 @@ git log -> to view commit history
 git push -> to push local commits/changes to the remote repository
 git clone -> to clone a remote repository into your local machine
 git pull -> to pull commits/changes from remote repository
+
+In these Lectures so far we have learnt about how to use Git & Github 
+Git & Github are Version Control System and are very useful to 
+keep a track of changes we make in our files, git follows a 2 stage
+system i.e. staging and then commiting our code, We learned a few
+basic commands in git, we learned how to initialize a remote repo,
+pull/push changes between local repo and the remote repo, we also
+learned about how versioning works and why it is so important, 
+We have also learned how to use Github Desktop, and how to clone
+repositories from Github Desktop, after this we moved on to setting
+up the Visual Studio Code Environment, and tried our hands on the 
+markdown language, markdown is a lightweight markup language for 
+creating formatted text using a plain-text editor. We also installed
+a markdown visualizing extension in VS Code for this purpose
