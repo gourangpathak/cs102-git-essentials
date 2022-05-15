@@ -1,0 +1,5 @@
+git add -> to stage files
+git log -> to view commit history
+git push -> to push local commits/changes to the remote repository
+git clone -> to clone a remote repository into your local machine
+git pull -> to pull commits/changes from remote repository
